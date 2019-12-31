@@ -2,6 +2,8 @@
 
 Code for our [DeePCCI paper](https://dl.acm.org/citation.cfm?doid=3341216.3342211)
 
+**Note: This repo was rebased to remove the git lfs files due to the github git lfs quota**
+
 **Weight and dataset files available at:** https://git-ce.rwth-aachen.de/constantin.sander/deepcci-public
 
 ## Quick Overview
